@@ -29,7 +29,3 @@ prep = prep * 0.06
 
 grade = labs + quizzes + assg_t + midterm_t + final + prep
 print(f'Your grade is: {round(grade)}')
-
-
-# ask Qs: labs and quizzes (100 or 0), labs and quizzes 6 or more, 5 or more
-# grade total: integer?
